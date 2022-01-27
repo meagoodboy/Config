@@ -1,0 +1,15 @@
+2022/01/27-23:14:59.186 48e Reusing MANIFEST /home/aswin/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/01/27-23:14:59.187 48e Recovering log #15
+2022/01/27-23:14:59.189 48e Reusing old log /home/aswin/.config/google-chrome/Default/Sync Data/LevelDB/000015.log 
+2022/01/27-23:15:18.270 4ab Level-0 table #19: started
+2022/01/27-23:15:18.281 4ab Level-0 table #19: 107139 bytes OK
+2022/01/27-23:15:18.284 4ab Delete type=0 #15
+2022/01/27-23:15:18.285 4ab Compacting 4@0 + 1@1 files
+2022/01/27-23:15:18.290 4ab Generated table #20@0: 89 keys, 10191 bytes
+2022/01/27-23:15:18.290 4ab Compacted 4@0 + 1@1 files => 10191 bytes
+2022/01/27-23:15:18.293 4ab compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/27-23:15:18.293 4ab Delete type=2 #7
+2022/01/27-23:15:18.293 4ab Delete type=2 #16
+2022/01/27-23:15:18.293 4ab Delete type=2 #13
+2022/01/27-23:15:18.293 4ab Delete type=2 #19
+2022/01/27-23:15:18.293 4ab Delete type=2 #10

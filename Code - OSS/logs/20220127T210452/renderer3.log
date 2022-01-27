@@ -1,0 +1,4 @@
+[2022-01-27 21:11:37.055] [renderer3] [info] Starting extension host with pid 1331.
+[2022-01-27 21:11:37.056] [renderer3] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 17 ms.
+[2022-01-27 21:11:37.335] [renderer3] [error] [Extension Host] (node:1331) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

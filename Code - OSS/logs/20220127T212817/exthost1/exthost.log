@@ -1,0 +1,9 @@
+[2022-01-27 21:28:21.452] [exthost] [info] Extension host with pid 2016 started
+[2022-01-27 21:28:21.452] [exthost] [info] Skipping acquiring lock for /home/aswin/.config/Code - OSS/User/workspaceStorage/02db1df650d19e9434aba08d6f2385fb.
+[2022-01-27 21:28:21.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-27 21:28:21.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-27 21:28:21.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-27 21:28:21.642] [exthost] [info] Eager extensions activated
+[2022-01-27 21:28:21.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-27 21:50:44.483] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-27 21:50:45.491] [exthost] [info] Extension host with pid 2016 exiting with code 0

@@ -1,0 +1,14 @@
+2022/01/27-23:14:59.166 3 Reusing MANIFEST /home/aswin/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/27-23:14:59.168 3 Recovering log #36
+2022/01/27-23:14:59.170 3 Level-0 table #39: started
+2022/01/27-23:14:59.175 3 Level-0 table #39: 89666 bytes OK
+2022/01/27-23:14:59.180 3 Delete type=0 #36
+2022/01/27-23:14:59.181 5 Compacting 4@0 + 1@1 files
+2022/01/27-23:14:59.193 5 Generated table #41@0: 463 keys, 412151 bytes
+2022/01/27-23:14:59.193 5 Compacted 4@0 + 1@1 files => 412151 bytes
+2022/01/27-23:14:59.198 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/27-23:14:59.198 5 Delete type=2 #35
+2022/01/27-23:14:59.198 5 Delete type=2 #32
+2022/01/27-23:14:59.198 5 Delete type=2 #37
+2022/01/27-23:14:59.199 5 Delete type=2 #39
+2022/01/27-23:14:59.199 5 Delete type=2 #29

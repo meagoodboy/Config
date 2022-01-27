@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/icon16.png",
+      "default_popup": "master.html",
+      "default_title": "Manage printers & get help"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com/analytics.js; object-src 'self'",
+   "description": "Local network printing for Chrome and Chromebooks",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi+UejVLOF2AtKGhkqGtXjhzwtpPecjIOXREZjUBYeI66Z0IsOPrruzLCsWjX7LBno18owJoZswC7vxrIpTQo6ututPJOOJju6Rn652rYwWq4M+MANBKzbi2s7pupSUEQcSSMYX9U8MkBvMtQ18h18IXMIxiU+vp7nWI+w6KudNeA/BF6+JpMvIvztrZpN7zUruga+XxpkiGvytZprMotUlZvP99t3udHWje9fF//7QBfJtH/U+ykDf8EwzvJ3MjIuq/BRVYoQcLZDxzJOWJU8XZ2tBirYWufWNHH5ytLvK0BAuA5LLEKcsFCmIpchMmG9iAl7JBdV8n4FGQVFYtrswIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "44",
+   "name": "IPP / CUPS printing for Chrome & Chromebooks",
+   "permissions": [ "http://*/*", "https://*/*", "printerProvider", "notifications", "storage", "unlimitedStorage", "webRequest", "webRequestBlocking" ],
+   "short_name": "IPP Printing",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.34"
+}

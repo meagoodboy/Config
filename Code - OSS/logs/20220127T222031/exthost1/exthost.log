@@ -1,0 +1,7 @@
+[2022-01-27 22:20:35.232] [exthost] [info] Extension host with pid 2895 started
+[2022-01-27 22:20:35.232] [exthost] [info] Skipping acquiring lock for /home/aswin/.config/Code - OSS/User/workspaceStorage/991eb85194f58d304ab70c120f257892.
+[2022-01-27 22:20:35.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-27 22:20:35.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-27 22:20:35.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-27 22:20:35.336] [exthost] [info] Eager extensions activated
+[2022-01-27 22:20:35.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

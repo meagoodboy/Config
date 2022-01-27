@@ -1,0 +1,9 @@
+2022/01/27-22:16:27.613 3 Reusing MANIFEST /home/aswin/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/27-22:16:27.613 3 Recovering log #31
+2022/01/27-22:16:27.614 3 Reusing old log /home/aswin/.config/google-chrome/Default/Local Storage/leveldb/000031.log 
+2022/01/27-22:17:56.019 3 Level-0 table #35: started
+2022/01/27-22:17:56.030 3 Level-0 table #35: 25700 bytes OK
+2022/01/27-22:17:56.035 3 Delete type=0 #31
+2022/01/27-22:18:41.988 3 Level-0 table #37: started
+2022/01/27-22:18:42.006 3 Level-0 table #37: 251223 bytes OK
+2022/01/27-22:18:42.011 3 Delete type=0 #34

@@ -1,0 +1,12 @@
+/*
+  DJ License
+  
+  Copyright (c) 2015-2016 DJ
+  
+  You are obliged to contact DJ for commercial licensing discussions if you want to reuse any potion of the proprietary code created by DJ in your own software.
+  
+  Otherwise enjoy!
+  
+  djsoftware1-support@yahoo.com
+  
+*/

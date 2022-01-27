@@ -1,0 +1,51 @@
+2022/01/27-08:31:53.537 c31 Creating DB /home/aswin/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb since it was missing.
+2022/01/27-08:31:53.557 c31 Reusing MANIFEST /home/aswin/.config/google-chrome/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/27-08:33:38.538 c82 Level-0 table #5: started
+2022/01/27-08:33:38.563 c82 Level-0 table #5: 2528789 bytes OK
+2022/01/27-08:33:38.566 c82 Delete type=0 #3
+2022/01/27-08:33:38.974 d71 Level-0 table #7: started
+2022/01/27-08:33:38.981 c7d Current memtable full; waiting...
+2022/01/27-08:33:38.990 d71 Level-0 table #7: 2627391 bytes OK
+2022/01/27-08:33:38.994 d71 Delete type=0 #4
+2022/01/27-08:33:38.995 d71 Level-0 table #9: started
+2022/01/27-08:33:39.009 c7d Current memtable full; waiting...
+2022/01/27-08:33:39.009 d71 Level-0 table #9: 2601142 bytes OK
+2022/01/27-08:33:39.013 d71 Delete type=0 #6
+2022/01/27-08:33:39.014 d71 Level-0 table #11: started
+2022/01/27-08:33:39.032 d71 Level-0 table #11: 2561981 bytes OK
+2022/01/27-08:33:39.036 d71 Delete type=0 #8
+2022/01/27-08:33:39.335 ce9 Compacting 2@0 + 1@1 files
+2022/01/27-08:33:39.349 ce9 Level-0 table #14: started
+2022/01/27-08:33:39.366 ce9 Level-0 table #14: 2406961 bytes OK
+2022/01/27-08:33:39.372 ce9 Delete type=0 #10
+2022/01/27-08:33:39.378 ce9 Generated table #12@0: 920 keys, 2133169 bytes
+2022/01/27-08:33:39.396 ce9 Generated table #15@0: 384 keys, 2107606 bytes
+2022/01/27-08:33:39.414 ce9 Generated table #16@0: 139 keys, 2119306 bytes
+2022/01/27-08:33:39.424 ce9 Generated table #17@0: 151 keys, 397154 bytes
+2022/01/27-08:33:39.424 ce9 Compacted 2@0 + 1@1 files => 6757235 bytes
+2022/01/27-08:33:39.428 ce9 compacted to: files[ 1 4 1 0 0 0 0 ]
+2022/01/27-08:33:39.428 ce9 Delete type=2 #11
+2022/01/27-08:33:39.428 ce9 Delete type=2 #7
+2022/01/27-08:33:39.428 ce9 Delete type=2 #9
+2022/01/27-08:33:41.617 d71 Compacting 1@0 + 4@1 files
+2022/01/27-08:33:41.652 d71 Generated table #18@0: 2116 keys, 2129586 bytes
+2022/01/27-08:33:41.670 d71 Generated table #19@0: 214 keys, 2128743 bytes
+2022/01/27-08:33:41.679 d71 Generated table #20@0: 343 keys, 820380 bytes
+2022/01/27-08:33:41.679 d71 Compacted 1@0 + 4@1 files => 5078709 bytes
+2022/01/27-08:33:41.682 d71 compacted to: files[ 0 3 1 0 0 0 0 ]
+2022/01/27-08:33:41.682 d71 Delete type=2 #17
+2022/01/27-08:33:41.682 d71 Delete type=2 #16
+2022/01/27-08:33:41.682 d71 Delete type=2 #14
+2022/01/27-08:33:41.682 d71 Delete type=2 #15
+2022/01/27-08:33:41.682 d71 Delete type=2 #12
+2022/01/27-08:37:20.070 c7d Expanding@1 1+1 (2129586+2528789 bytes) to 3+1 (5078709+2528789 bytes)
+2022/01/27-08:37:20.070 c7d Compacting 3@1 + 1@2 files
+2022/01/27-08:37:20.090 c7d Generated table #21@1: 964 keys, 2127792 bytes
+2022/01/27-08:37:20.106 c7d Generated table #22@1: 214 keys, 2128743 bytes
+2022/01/27-08:37:20.115 c7d Generated table #23@1: 343 keys, 820380 bytes
+2022/01/27-08:37:20.115 c7d Compacted 3@1 + 1@2 files => 5076915 bytes
+2022/01/27-08:37:20.119 c7d compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/01/27-08:37:20.119 c7d Delete type=2 #18
+2022/01/27-08:37:20.119 c7d Delete type=2 #20
+2022/01/27-08:37:20.119 c7d Delete type=2 #5
+2022/01/27-08:37:20.119 c7d Delete type=2 #19

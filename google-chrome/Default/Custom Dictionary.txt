@@ -1,0 +1,2 @@
+conda
+checksum_v1 = 7a5b6d2aa04ec978a37751de4db89a1d
